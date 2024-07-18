@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackHeart786
 - 👀 I’m interested in Web technologys
-- 🌱 I’m currently learning Android development 
+- 🌱 I’m currently learning backend development 
 - 📫 toukirahmed0111@gmail.com
 
 <!---
